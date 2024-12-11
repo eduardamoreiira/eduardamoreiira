@@ -3,7 +3,7 @@
 - 🔭 Trabalhando no projeto controle-consultas
 - 🌱 Estou estudando Django
 - 😄 Pronome: Ela
-- ⚡ Fun fact: Gosto muito de Tylor Swift
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardamoreiira&show_icons=true&theme=radical)
